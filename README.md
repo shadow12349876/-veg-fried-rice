@@ -1,1 +1,2 @@
-# -veg-fried-rice
+# fried-rice-
+fried rice recipe
